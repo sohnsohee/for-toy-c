@@ -17,3 +17,5 @@
     * ``<a href="[LINK]">[CONTENT]</a>`` - \[LINK\] : 링크 걸고 싶은 주소, \[CONTENT\] : 링크 걸고 싶은 글씨
     * ``<ol>[LIST_ELEMENT]</ol>`` - 순서가 있는 리스트 ordered list
     * ``<ul>[LIST_ELEMENT]<\ul>`` - 순서가 없는 리스트 un-ordered list
+    * ``<li>[CONTENT]</li>`` - 리스트 안에 있는 원소 하나
+    * ``<script>[JS_CODE]</script>`` - html에서 자바스크립트 코드를 작동하게 해주는 태그
